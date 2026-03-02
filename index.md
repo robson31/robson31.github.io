@@ -7,8 +7,9 @@ title: Home
 
 I'm a Software Engineer specializing in AI systems and production-grade infrastructure.
 
-I hold a Master's in Computer Science (AI specialization) and have experience building scalable systems and deploying real-world AI applications.
+I hold a Master's in Computer Science and have experience building scalable systems and deploying real-world AI applications.
 
+This personal page is still under construction!
 ---
 
 ## 🔧 Skills
