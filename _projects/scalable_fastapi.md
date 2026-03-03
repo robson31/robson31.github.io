@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Scalable FastAPI Service
+title: FastAPI Template
 excerpt: A clean, scalable FastAPI template for building robust Python backends.
 ---
 
-# Scalable FastAPI Service
+# FastAPI Template
 
 A **scalable Python backend template** built with **FastAPI**.  
 This project serves as a foundation for developing **robust, production-ready APIs** with a modular structure and clean architecture.
@@ -22,4 +22,4 @@ This project serves as a foundation for developing **robust, production-ready AP
 - **Docker** – containerization for portability and deployment
 
 ## GitHub Repository
-[View on GitHub](https://github.com/robson31/scalable-python-service)
+[View on GitHub](https://github.com/robson31/fastapi-template)
